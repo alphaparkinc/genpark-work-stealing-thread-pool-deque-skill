@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-work-stealing-thread-pool-deque-skill"
+version = "1.0.0"
+description = "Chase-Lev work-stealing deque scheduler for parallel task decomposition with local LIFO and remote FIFO stealing"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
