@@ -1,0 +1,20 @@
+{
+  "name": "genpark-work-stealing-thread-pool-deque-skill",
+  "version": "1.0.0",
+  "description": "Chase-Lev work-stealing deque scheduler for parallel task decomposition with local LIFO and remote FIFO stealing",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "work-stealing",
+    "chase-lev",
+    "deque",
+    "task-scheduling",
+    "parallel-computing",
+    "concurrency",
+    "python-standard-library",
+    "agent-skills",
+    "load-balancing",
+    "multithreading"
+  ]
+}
